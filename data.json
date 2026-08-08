@@ -1,0 +1,178 @@
+{
+    "generated_at": "2026-08-08T18:00:11+06:00",
+    "generated_at_human": "08 Aug 2026, 18:00 BDT",
+    "regime": "bearish",
+    "regime_source": "proxy_fallback",
+    "dsex_close": null,
+    "dsex_ma50": null,
+    "top_signals": [
+        {
+            "symbol": "SEMLFBSLGF",
+            "verdict": "HOLD",
+            "confidence": 45,
+            "calibrated_confidence": 57,
+            "calibration_status": "calibrated",
+            "signal_type": "URGENT_EXIT",
+            "sector": "Mutual Fund"
+        },
+        {
+            "symbol": "SEMLIBBLSF",
+            "verdict": "HOLD",
+            "confidence": 45,
+            "calibrated_confidence": 57,
+            "calibration_status": "calibrated",
+            "signal_type": "URGENT_EXIT",
+            "sector": "Mutual Fund"
+        },
+        {
+            "symbol": "KARNAPHULI",
+            "verdict": "REDUCE",
+            "confidence": 44,
+            "calibrated_confidence": 57,
+            "calibration_status": "legacy",
+            "signal_type": "DEEP_BUY",
+            "sector": "Insurance"
+        },
+        {
+            "symbol": "TAKAFULINS",
+            "verdict": "REDUCE",
+            "confidence": 44,
+            "calibrated_confidence": 57,
+            "calibration_status": "legacy",
+            "signal_type": "DEEP_BUY",
+            "sector": "Finance"
+        },
+        {
+            "symbol": "CAPITECGBF",
+            "verdict": "REDUCE",
+            "confidence": 37,
+            "calibrated_confidence": 54,
+            "calibration_status": "legacy",
+            "signal_type": "LONG_RUN_POSITION",
+            "sector": "Mutual Fund"
+        },
+        {
+            "symbol": "ETL",
+            "verdict": "REDUCE",
+            "confidence": 37,
+            "calibrated_confidence": 54,
+            "calibration_status": "calibrated",
+            "signal_type": "URGENT_EXIT",
+            "sector": "Other\/Diversified"
+        },
+        {
+            "symbol": "GLDNJMF",
+            "verdict": "REDUCE",
+            "confidence": 37,
+            "calibrated_confidence": 54,
+            "calibration_status": "legacy",
+            "signal_type": "LONG_RUN_POSITION",
+            "sector": "Mutual Fund"
+        },
+        {
+            "symbol": "ISLAMICFIN",
+            "verdict": "REDUCE",
+            "confidence": 37,
+            "calibrated_confidence": 54,
+            "calibration_status": "legacy",
+            "signal_type": "LONG_RUN_POSITION",
+            "sector": "Insurance"
+        },
+        {
+            "symbol": "PRIME1ICBA",
+            "verdict": "REDUCE",
+            "confidence": 37,
+            "calibrated_confidence": 54,
+            "calibration_status": "legacy",
+            "signal_type": "LONG_RUN_POSITION",
+            "sector": "Mutual Fund"
+        },
+        {
+            "symbol": "VAMLRBBF",
+            "verdict": "REDUCE",
+            "confidence": 37,
+            "calibrated_confidence": 54,
+            "calibration_status": "calibrated",
+            "signal_type": "URGENT_EXIT",
+            "sector": "Mutual Fund"
+        },
+        {
+            "symbol": "ICBSONALI1",
+            "verdict": "REDUCE",
+            "confidence": 36,
+            "calibrated_confidence": 54,
+            "calibration_status": "legacy",
+            "signal_type": "DEEP_BUY",
+            "sector": "Finance"
+        },
+        {
+            "symbol": "AIBL1STIMF",
+            "verdict": "REDUCE",
+            "confidence": 34,
+            "calibrated_confidence": 54,
+            "calibration_status": "legacy",
+            "signal_type": "LONG_RUN_POSITION",
+            "sector": "Insurance"
+        },
+        {
+            "symbol": "CAPMBDBLMF",
+            "verdict": "REDUCE",
+            "confidence": 34,
+            "calibrated_confidence": 54,
+            "calibration_status": "calibrated",
+            "signal_type": "URGENT_EXIT",
+            "sector": "Mutual Fund"
+        },
+        {
+            "symbol": "ICB3RDNRB",
+            "verdict": "REDUCE",
+            "confidence": 34,
+            "calibrated_confidence": 54,
+            "calibration_status": "legacy",
+            "signal_type": "LONG_RUN_POSITION",
+            "sector": "Finance"
+        },
+        {
+            "symbol": "ICBAMCL2ND",
+            "verdict": "REDUCE",
+            "confidence": 34,
+            "calibrated_confidence": 54,
+            "calibration_status": "legacy",
+            "signal_type": "LONG_RUN_POSITION",
+            "sector": "Finance"
+        },
+        {
+            "symbol": "EASTLAND",
+            "verdict": "REDUCE",
+            "confidence": 33,
+            "calibrated_confidence": 54,
+            "calibration_status": "legacy",
+            "signal_type": "DEEP_BUY",
+            "sector": "Steel"
+        },
+        {
+            "symbol": "BEXIMCO",
+            "verdict": "REDUCE",
+            "confidence": 32,
+            "calibrated_confidence": 54,
+            "calibration_status": "calibrated",
+            "signal_type": "URGENT_EXIT",
+            "sector": "Pharma"
+        }
+    ],
+    "signal_counts": {
+        "total": 680,
+        "bullish": 0,
+        "avoid": 663,
+        "neutral": 2
+    },
+    "walk_forward": {
+        "verdict": "MARGINAL — small improvement; not yet worth a learned model",
+        "improvement": 0.02,
+        "avg_empirical_mce": 0.485,
+        "avg_raw_mce": 0.505,
+        "run_date": "2026-08-07",
+        "next_run": "2026-09-06"
+    },
+    "holdings_summary": null
+}
