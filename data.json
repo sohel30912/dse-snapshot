@@ -1,91 +1,19 @@
 {
-    "generated_at": "2026-08-08T18:00:11+06:00",
-    "generated_at_human": "08 Aug 2026, 18:00 BDT",
+    "generated_at": "2026-08-09T18:49:18+06:00",
+    "generated_at_human": "09 Aug 2026, 18:49 BDT",
     "regime": "bearish",
     "regime_source": "proxy_fallback",
     "dsex_close": null,
     "dsex_ma50": null,
     "top_signals": [
         {
-            "symbol": "SEMLFBSLGF",
-            "verdict": "HOLD",
-            "confidence": 45,
-            "calibrated_confidence": 57,
-            "calibration_status": "calibrated",
-            "signal_type": "URGENT_EXIT",
-            "sector": "Mutual Fund"
-        },
-        {
-            "symbol": "SEMLIBBLSF",
-            "verdict": "HOLD",
-            "confidence": 45,
-            "calibrated_confidence": 57,
-            "calibration_status": "calibrated",
-            "signal_type": "URGENT_EXIT",
-            "sector": "Mutual Fund"
-        },
-        {
-            "symbol": "KARNAPHULI",
+            "symbol": "DSSL",
             "verdict": "REDUCE",
-            "confidence": 44,
-            "calibrated_confidence": 57,
-            "calibration_status": "legacy",
-            "signal_type": "DEEP_BUY",
-            "sector": "Insurance"
-        },
-        {
-            "symbol": "TAKAFULINS",
-            "verdict": "REDUCE",
-            "confidence": 44,
-            "calibrated_confidence": 57,
-            "calibration_status": "legacy",
-            "signal_type": "DEEP_BUY",
-            "sector": "Finance"
-        },
-        {
-            "symbol": "CAPITECGBF",
-            "verdict": "REDUCE",
-            "confidence": 37,
-            "calibrated_confidence": 54,
-            "calibration_status": "legacy",
-            "signal_type": "LONG_RUN_POSITION",
-            "sector": "Mutual Fund"
-        },
-        {
-            "symbol": "ETL",
-            "verdict": "REDUCE",
-            "confidence": 37,
+            "confidence": 39,
             "calibrated_confidence": 54,
             "calibration_status": "calibrated",
             "signal_type": "URGENT_EXIT",
             "sector": "Other\/Diversified"
-        },
-        {
-            "symbol": "GLDNJMF",
-            "verdict": "REDUCE",
-            "confidence": 37,
-            "calibrated_confidence": 54,
-            "calibration_status": "legacy",
-            "signal_type": "LONG_RUN_POSITION",
-            "sector": "Mutual Fund"
-        },
-        {
-            "symbol": "ISLAMICFIN",
-            "verdict": "REDUCE",
-            "confidence": 37,
-            "calibrated_confidence": 54,
-            "calibration_status": "legacy",
-            "signal_type": "LONG_RUN_POSITION",
-            "sector": "Insurance"
-        },
-        {
-            "symbol": "PRIME1ICBA",
-            "verdict": "REDUCE",
-            "confidence": 37,
-            "calibrated_confidence": 54,
-            "calibration_status": "legacy",
-            "signal_type": "LONG_RUN_POSITION",
-            "sector": "Mutual Fund"
         },
         {
             "symbol": "VAMLRBBF",
@@ -97,18 +25,9 @@
             "sector": "Mutual Fund"
         },
         {
-            "symbol": "ICBSONALI1",
+            "symbol": "UNITEDINS",
             "verdict": "REDUCE",
-            "confidence": 36,
-            "calibrated_confidence": 54,
-            "calibration_status": "legacy",
-            "signal_type": "DEEP_BUY",
-            "sector": "Finance"
-        },
-        {
-            "symbol": "AIBL1STIMF",
-            "verdict": "REDUCE",
-            "confidence": 34,
+            "confidence": 35,
             "calibrated_confidence": 54,
             "calibration_status": "legacy",
             "signal_type": "LONG_RUN_POSITION",
@@ -124,47 +43,65 @@
             "sector": "Mutual Fund"
         },
         {
-            "symbol": "ICB3RDNRB",
+            "symbol": "ETL",
             "verdict": "REDUCE",
             "confidence": 34,
             "calibrated_confidence": 54,
-            "calibration_status": "legacy",
-            "signal_type": "LONG_RUN_POSITION",
-            "sector": "Finance"
+            "calibration_status": "calibrated",
+            "signal_type": "URGENT_EXIT",
+            "sector": "Other\/Diversified"
         },
         {
-            "symbol": "ICBAMCL2ND",
+            "symbol": "REPUBLIC",
             "verdict": "REDUCE",
             "confidence": 34,
             "calibrated_confidence": 54,
-            "calibration_status": "legacy",
-            "signal_type": "LONG_RUN_POSITION",
-            "sector": "Finance"
+            "calibration_status": "calibrated",
+            "signal_type": "URGENT_EXIT",
+            "sector": "Insurance"
         },
         {
-            "symbol": "EASTLAND",
+            "symbol": "SEMLIBBLSF",
+            "verdict": "REDUCE",
+            "confidence": 34,
+            "calibrated_confidence": 54,
+            "calibration_status": "calibrated",
+            "signal_type": "URGENT_EXIT",
+            "sector": "Mutual Fund"
+        },
+        {
+            "symbol": "KARNAPHULI",
             "verdict": "REDUCE",
             "confidence": 33,
             "calibrated_confidence": 54,
             "calibration_status": "legacy",
             "signal_type": "DEEP_BUY",
-            "sector": "Steel"
+            "sector": "Insurance"
         },
         {
-            "symbol": "BEXIMCO",
+            "symbol": "TAKAFULINS",
             "verdict": "REDUCE",
-            "confidence": 32,
+            "confidence": 33,
             "calibrated_confidence": 54,
-            "calibration_status": "calibrated",
-            "signal_type": "URGENT_EXIT",
-            "sector": "Pharma"
+            "calibration_status": "legacy",
+            "signal_type": "DEEP_BUY",
+            "sector": "Finance"
+        },
+        {
+            "symbol": "UNIONINS",
+            "verdict": "REDUCE",
+            "confidence": 33,
+            "calibrated_confidence": 54,
+            "calibration_status": "legacy",
+            "signal_type": "DEEP_BUY",
+            "sector": "Insurance"
         }
     ],
     "signal_counts": {
-        "total": 680,
+        "total": 675,
         "bullish": 0,
-        "avoid": 663,
-        "neutral": 2
+        "avoid": 665,
+        "neutral": 0
     },
     "walk_forward": {
         "verdict": "MARGINAL — small improvement; not yet worth a learned model",
