@@ -1,10 +1,10 @@
 {
-    "generated_at": "2026-08-12T18:00:01+06:00",
-    "generated_at_human": "12 Aug 2026, 18:00 BDT",
+    "generated_at": "2026-08-13T19:56:18+06:00",
+    "generated_at_human": "13 Aug 2026, 19:56 BDT",
     "regime": "bullish",
     "regime_source": "dsex_real",
-    "dsex_close": 5897.27,
-    "dsex_ma50": 5740.77,
+    "dsex_close": 5883.91,
+    "dsex_ma50": 5863.45,
     "top_signals": [
         {
             "symbol": "UNITEDINS",
@@ -25,15 +25,6 @@
             "sector": "Power"
         },
         {
-            "symbol": "GLDNJMF",
-            "verdict": "BUY",
-            "confidence": 60,
-            "calibrated_confidence": 61,
-            "calibration_status": "calibrated",
-            "signal_type": "LONG_RUN_POSITION",
-            "sector": "Mutual Fund"
-        },
-        {
             "symbol": "ISLAMICFIN",
             "verdict": "BUY",
             "confidence": 60,
@@ -41,33 +32,6 @@
             "calibration_status": "calibrated",
             "signal_type": "LONG_RUN_POSITION",
             "sector": "Insurance"
-        },
-        {
-            "symbol": "KARNAPHULI",
-            "verdict": "BUY",
-            "confidence": 60,
-            "calibrated_confidence": 61,
-            "calibration_status": "calibrated",
-            "signal_type": "LONG_RUN_POSITION",
-            "sector": "Insurance"
-        },
-        {
-            "symbol": "PRIMEINSUR",
-            "verdict": "BUY",
-            "confidence": 60,
-            "calibrated_confidence": 61,
-            "calibration_status": "calibrated",
-            "signal_type": "LONG_RUN_POSITION",
-            "sector": "Insurance"
-        },
-        {
-            "symbol": "PREMIERBAN",
-            "verdict": "HOLD",
-            "confidence": 59,
-            "calibrated_confidence": 61,
-            "calibration_status": "calibrated",
-            "signal_type": "LONG_RUN_POSITION",
-            "sector": "Banking"
         },
         {
             "symbol": "DBH",
@@ -79,13 +43,22 @@
             "sector": "Banking"
         },
         {
-            "symbol": "SAIHAMCOT",
+            "symbol": "PREMIERBAN",
             "verdict": "HOLD",
             "confidence": 57,
             "calibrated_confidence": 61,
             "calibration_status": "calibrated",
             "signal_type": "LONG_RUN_POSITION",
-            "sector": "Textile"
+            "sector": "Banking"
+        },
+        {
+            "symbol": "PIONEERINS",
+            "verdict": "HOLD",
+            "confidence": 56,
+            "calibrated_confidence": 57,
+            "calibration_status": "calibrated",
+            "signal_type": "URGENT_EXIT",
+            "sector": "Insurance"
         },
         {
             "symbol": "SPCL",
@@ -133,6 +106,24 @@
             "sector": "Mutual Fund"
         },
         {
+            "symbol": "DHAKAINS",
+            "verdict": "HOLD",
+            "confidence": 54,
+            "calibrated_confidence": 57,
+            "calibration_status": "legacy",
+            "signal_type": "LONG_RUN_POSITION",
+            "sector": "Insurance"
+        },
+        {
+            "symbol": "GLDNJMF",
+            "verdict": "HOLD",
+            "confidence": 54,
+            "calibrated_confidence": 57,
+            "calibration_status": "legacy",
+            "signal_type": "LONG_RUN_POSITION",
+            "sector": "Mutual Fund"
+        },
+        {
             "symbol": "ICICL",
             "verdict": "HOLD",
             "confidence": 54,
@@ -142,12 +133,21 @@
             "sector": "Insurance"
         },
         {
-            "symbol": "JANATAINS",
+            "symbol": "KARNAPHULI",
             "verdict": "HOLD",
             "confidence": 54,
             "calibrated_confidence": 57,
-            "calibration_status": "calibrated",
-            "signal_type": "URGENT_EXIT",
+            "calibration_status": "legacy",
+            "signal_type": "LONG_RUN_POSITION",
+            "sector": "Insurance"
+        },
+        {
+            "symbol": "PRIMEINSUR",
+            "verdict": "HOLD",
+            "confidence": 54,
+            "calibrated_confidence": 57,
+            "calibration_status": "legacy",
+            "signal_type": "LONG_RUN_POSITION",
             "sector": "Insurance"
         },
         {
@@ -189,9 +189,9 @@
     ],
     "signal_counts": {
         "total": 675,
-        "bullish": 9,
-        "avoid": 469,
-        "neutral": 70
+        "bullish": 6,
+        "avoid": 468,
+        "neutral": 80
     },
     "walk_forward": {
         "verdict": "MARGINAL — small improvement; not yet worth a learned model",
