@@ -1,60 +1,105 @@
 {
-    "generated_at": "2026-08-13T19:56:18+06:00",
-    "generated_at_human": "13 Aug 2026, 19:56 BDT",
+    "generated_at": "2026-08-14T18:00:02+06:00",
+    "generated_at_human": "14 Aug 2026, 18:00 BDT",
     "regime": "bullish",
     "regime_source": "dsex_real",
     "dsex_close": 5883.91,
     "dsex_ma50": 5863.45,
     "top_signals": [
         {
-            "symbol": "UNITEDINS",
-            "verdict": "BUY",
-            "confidence": 63,
-            "calibrated_confidence": 61,
+            "symbol": "MEGHNAINS",
+            "verdict": "HOLD",
+            "confidence": 54,
+            "calibrated_confidence": 57,
             "calibration_status": "calibrated",
+            "signal_type": "URGENT_EXIT",
+            "sector": "Insurance"
+        },
+        {
+            "symbol": "UNITEDINS",
+            "verdict": "HOLD",
+            "confidence": 53,
+            "calibrated_confidence": 57,
+            "calibration_status": "legacy",
             "signal_type": "LONG_RUN_POSITION",
             "sector": "Insurance"
         },
         {
+            "symbol": "SOUTHEASTB",
+            "verdict": "HOLD",
+            "confidence": 51,
+            "calibrated_confidence": 57,
+            "calibration_status": "legacy",
+            "signal_type": "LONG_RUN_POSITION",
+            "sector": "Manufacturing"
+        },
+        {
             "symbol": "DOREENPWR",
-            "verdict": "BUY",
-            "confidence": 60,
-            "calibrated_confidence": 61,
-            "calibration_status": "calibrated",
+            "verdict": "HOLD",
+            "confidence": 50,
+            "calibrated_confidence": 57,
+            "calibration_status": "legacy",
             "signal_type": "LONG_RUN_POSITION",
             "sector": "Power"
         },
         {
-            "symbol": "ISLAMICFIN",
-            "verdict": "BUY",
-            "confidence": 60,
-            "calibrated_confidence": 61,
+            "symbol": "SAIHAMTEX",
+            "verdict": "HOLD",
+            "confidence": 50,
+            "calibrated_confidence": 57,
+            "calibration_status": "legacy",
+            "signal_type": "LONG_RUN_POSITION",
+            "sector": "Textile"
+        },
+        {
+            "symbol": "SONALIANSH",
+            "verdict": "HOLD",
+            "confidence": 50,
+            "calibrated_confidence": 57,
             "calibration_status": "calibrated",
+            "signal_type": "URGENT_EXIT",
+            "sector": "Banking"
+        },
+        {
+            "symbol": "ISLAMICFIN",
+            "verdict": "HOLD",
+            "confidence": 48,
+            "calibrated_confidence": 57,
+            "calibration_status": "legacy",
             "signal_type": "LONG_RUN_POSITION",
             "sector": "Insurance"
         },
         {
-            "symbol": "DBH",
+            "symbol": "PREMIERBAN",
             "verdict": "HOLD",
-            "confidence": 57,
-            "calibrated_confidence": 61,
-            "calibration_status": "calibrated",
+            "confidence": 47,
+            "calibrated_confidence": 57,
+            "calibration_status": "legacy",
             "signal_type": "LONG_RUN_POSITION",
             "sector": "Banking"
         },
         {
-            "symbol": "PREMIERBAN",
+            "symbol": "SAIHAMCOT",
             "verdict": "HOLD",
-            "confidence": 57,
-            "calibrated_confidence": 61,
-            "calibration_status": "calibrated",
+            "confidence": 47,
+            "calibrated_confidence": 57,
+            "calibration_status": "legacy",
             "signal_type": "LONG_RUN_POSITION",
+            "sector": "Textile"
+        },
+        {
+            "symbol": "BANKASIA",
+            "verdict": "HOLD",
+            "confidence": 46,
+            "calibrated_confidence": 57,
+            "calibration_status": "calibrated",
+            "signal_type": "URGENT_EXIT",
             "sector": "Banking"
         },
         {
             "symbol": "PIONEERINS",
             "verdict": "HOLD",
-            "confidence": 56,
+            "confidence": 46,
             "calibrated_confidence": 57,
             "calibration_status": "calibrated",
             "signal_type": "URGENT_EXIT",
@@ -63,7 +108,7 @@
         {
             "symbol": "SPCL",
             "verdict": "HOLD",
-            "confidence": 56,
+            "confidence": 46,
             "calibrated_confidence": 57,
             "calibration_status": "calibrated",
             "signal_type": "URGENT_EXIT",
@@ -72,25 +117,16 @@
         {
             "symbol": "VAMLRBBF",
             "verdict": "HOLD",
-            "confidence": 55,
+            "confidence": 45,
             "calibrated_confidence": 57,
             "calibration_status": "calibrated",
             "signal_type": "URGENT_EXIT",
             "sector": "Mutual Fund"
         },
         {
-            "symbol": "AAMRANET",
-            "verdict": "HOLD",
-            "confidence": 54,
-            "calibrated_confidence": 57,
-            "calibration_status": "calibrated",
-            "signal_type": "EXIT",
-            "sector": "Telecom"
-        },
-        {
             "symbol": "ASIAPACINS",
-            "verdict": "HOLD",
-            "confidence": 54,
+            "verdict": "REDUCE",
+            "confidence": 44,
             "calibrated_confidence": 57,
             "calibration_status": "legacy",
             "signal_type": "LONG_RUN_POSITION",
@@ -98,17 +134,26 @@
         },
         {
             "symbol": "CAPITECGBF",
-            "verdict": "HOLD",
-            "confidence": 54,
+            "verdict": "REDUCE",
+            "confidence": 44,
             "calibrated_confidence": 57,
             "calibration_status": "legacy",
             "signal_type": "LONG_RUN_POSITION",
             "sector": "Mutual Fund"
         },
         {
+            "symbol": "CITYGENINS",
+            "verdict": "REDUCE",
+            "confidence": 44,
+            "calibrated_confidence": 57,
+            "calibration_status": "legacy",
+            "signal_type": "LONG_RUN_POSITION",
+            "sector": "Insurance"
+        },
+        {
             "symbol": "DHAKAINS",
-            "verdict": "HOLD",
-            "confidence": 54,
+            "verdict": "REDUCE",
+            "confidence": 44,
             "calibrated_confidence": 57,
             "calibration_status": "legacy",
             "signal_type": "LONG_RUN_POSITION",
@@ -116,8 +161,8 @@
         },
         {
             "symbol": "GLDNJMF",
-            "verdict": "HOLD",
-            "confidence": 54,
+            "verdict": "REDUCE",
+            "confidence": 44,
             "calibrated_confidence": 57,
             "calibration_status": "legacy",
             "signal_type": "LONG_RUN_POSITION",
@@ -125,8 +170,8 @@
         },
         {
             "symbol": "ICICL",
-            "verdict": "HOLD",
-            "confidence": 54,
+            "verdict": "REDUCE",
+            "confidence": 44,
             "calibrated_confidence": 57,
             "calibration_status": "legacy",
             "signal_type": "LONG_RUN_POSITION",
@@ -134,64 +179,19 @@
         },
         {
             "symbol": "KARNAPHULI",
-            "verdict": "HOLD",
-            "confidence": 54,
+            "verdict": "REDUCE",
+            "confidence": 44,
             "calibrated_confidence": 57,
             "calibration_status": "legacy",
             "signal_type": "LONG_RUN_POSITION",
             "sector": "Insurance"
-        },
-        {
-            "symbol": "PRIMEINSUR",
-            "verdict": "HOLD",
-            "confidence": 54,
-            "calibrated_confidence": 57,
-            "calibration_status": "legacy",
-            "signal_type": "LONG_RUN_POSITION",
-            "sector": "Insurance"
-        },
-        {
-            "symbol": "SEMLFBSLGF",
-            "verdict": "HOLD",
-            "confidence": 54,
-            "calibrated_confidence": 57,
-            "calibration_status": "calibrated",
-            "signal_type": "URGENT_EXIT",
-            "sector": "Mutual Fund"
-        },
-        {
-            "symbol": "CAPMBDBLMF",
-            "verdict": "HOLD",
-            "confidence": 53,
-            "calibrated_confidence": 57,
-            "calibration_status": "calibrated",
-            "signal_type": "URGENT_EXIT",
-            "sector": "Mutual Fund"
-        },
-        {
-            "symbol": "PREMIERLEA",
-            "verdict": "HOLD",
-            "confidence": 53,
-            "calibrated_confidence": 57,
-            "calibration_status": "legacy",
-            "signal_type": "LONG_RUN_POSITION",
-            "sector": "Manufacturing"
-        },
-        {
-            "symbol": "DBH1STMF",
-            "verdict": "HOLD",
-            "confidence": 52,
-            "calibrated_confidence": 57,
-            "calibration_status": "legacy",
-            "signal_type": "LONG_RUN_POSITION",
-            "sector": "Banking"
         }
     ],
     "signal_counts": {
         "total": 675,
-        "bullish": 6,
-        "avoid": 468,
-        "neutral": 80
+        "bullish": 0,
+        "avoid": 577,
+        "neutral": 13
     },
     "walk_forward": {
         "verdict": "MARGINAL — small improvement; not yet worth a learned model",
